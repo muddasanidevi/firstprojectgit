@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657733569,,"wq"
+|2,0,1657734660,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +23,45 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	CHAR	0
+	 
+	#
+|3,1,1,0,2,0,1657734603," ","#"
+"-	CHAR	0
+	E
+|3,0,36,0,1,0,1657734602,"E"
 
 # File marks:
-'0  4  0  ~/firstprojectgit
-|4,48,4,0,1657733569,"~/firstprojectgit"
+'0  5  34  ~/.gitconfig
+|4,48,5,34,1657734660,"~/.gitconfig"
+'1  4  0  ~/firstprojectgit
+|4,49,4,0,1657733569,"~/firstprojectgit"
 
 # Jumplist (newest first):
+-'  5  34  ~/.gitconfig
+|4,39,5,34,1657734660,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1657734587,"~/.gitconfig"
+-'  4  0  ~/firstprojectgit
+|4,39,4,0,1657733569,"~/firstprojectgit"
 -'  4  0  ~/firstprojectgit
 |4,39,4,0,1657733569,"~/firstprojectgit"
 -'  1  0  ~/firstprojectgit
 |4,39,1,0,1657733513,"~/firstprojectgit"
+-'  1  0  ~/firstprojectgit
+|4,39,1,0,1657733513,"~/firstprojectgit"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1657734653	0
+	"	5	34
+	^	5	35
+	.	5	34
+	+	4	8
+	+	5	0
+	+	4	21
+	+	5	34
 
 > ~/firstprojectgit
 	*	1657733567	0
