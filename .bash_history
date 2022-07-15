@@ -181,3 +181,37 @@ git pull
 git status
 git push origin master
 git log
+clear
+git
+git versio
+git version
+git status
+git add .
+git status
+git commit -m "commiting some data"
+git status
+git pull
+git config --global --edit
+git log
+clear
+mkdir gitrepo
+ll
+cd mkdir
+cd gitrepo
+ll
+mkdir gitclone
+ll
+cd gitclone
+ll
+git status
+git pull
+cd
+ll
+git status
+git merge --abort
+git status
+git pull
+git config
+git config --global --edit
+git push 
+git push origin master

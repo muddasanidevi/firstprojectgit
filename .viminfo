@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1657737594,,"wq"
+=======
+|2,0,1657734744,,"wq"
+>>>>>>> 642a9e3b757916b672495ec0f68c41987d244271
 
 # Search String History (newest to oldest):
 
@@ -32,6 +36,7 @@
 |3,0,36,0,1,0,1657734602,"E"
 
 # File marks:
+<<<<<<< HEAD
 '0  1  0  ~/dir1/project1/.git/MERGE_MSG
 |4,48,1,0,1657737594,"~/dir1/project1/.git/MERGE_MSG"
 '1  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
@@ -268,6 +273,47 @@
 
 > ~/dir1/project1/sample
 	*	1657737362	0
+=======
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1657734744,"~/.git/COMMIT_EDITMSG"
+'1  5  34  ~/.gitconfig
+|4,49,5,34,1657734660,"~/.gitconfig"
+'2  4  0  ~/firstprojectgit
+|4,50,4,0,1657733569,"~/firstprojectgit"
+
+# Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1657734744,"~/.git/COMMIT_EDITMSG"
+-'  5  34  ~/.gitconfig
+|4,39,5,34,1657734660,"~/.gitconfig"
+-'  5  34  ~/.gitconfig
+|4,39,5,34,1657734660,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1657734587,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1657734587,"~/.gitconfig"
+-'  4  0  ~/firstprojectgit
+|4,39,4,0,1657733569,"~/firstprojectgit"
+-'  4  0  ~/firstprojectgit
+|4,39,4,0,1657733569,"~/firstprojectgit"
+-'  4  0  ~/firstprojectgit
+|4,39,4,0,1657733569,"~/firstprojectgit"
+-'  4  0  ~/firstprojectgit
+|4,39,4,0,1657733569,"~/firstprojectgit"
+-'  1  0  ~/firstprojectgit
+|4,39,1,0,1657733513,"~/firstprojectgit"
+-'  1  0  ~/firstprojectgit
+|4,39,1,0,1657733513,"~/firstprojectgit"
+-'  1  0  ~/firstprojectgit
+|4,39,1,0,1657733513,"~/firstprojectgit"
+-'  1  0  ~/firstprojectgit
+|4,39,1,0,1657733513,"~/firstprojectgit"
+
+# History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1657734741	0
+>>>>>>> 642a9e3b757916b672495ec0f68c41987d244271
 	"	1	0
 
 > ~/.gitconfig
