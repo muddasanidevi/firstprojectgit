@@ -215,3 +215,47 @@ git config
 git config --global --edit
 git push 
 git push origin master
+git config --global --edit
+clear
+ll
+git status
+git add ./
+git status
+git pull
+git commit -m "commit done"
+git status
+git push origin master
+gssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+ll
+cd gitrepo
+cd gitclone
+ll -a
+touch clone2 
+git add .
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+git status
+git commit ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+git commit -m "created passwordless autentication"
+git status
+git push origin master
+git remote add url git@github.com:muddasanidevi/firstprojectgit.git
+git remote -v
+git add ./
+git push origin master
+git push url master
+gti remote -v
+git remote -v
+git push url master
+touch clone3
+git add ./
+git commit -m "checking for password less authetication"
+git log
+git push url master
+git status
+git add .
+git status
+git commit -m "tracking files" .
+git status
+git push origin master
+git push url master
+clear
