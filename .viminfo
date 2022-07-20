@@ -12,11 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-<<<<<<< HEAD
-|2,0,1657737594,,"wq"
-=======
-|2,0,1657734744,,"wq"
->>>>>>> 642a9e3b757916b672495ec0f68c41987d244271
+|2,0,1658328031,,"wq"
+:wq!
+|2,0,1658327624,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,313 +25,40 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	CHAR	0
-	 
-	#
-|3,1,1,0,2,0,1657734603," ","#"
-"-	CHAR	0
-	E
-|3,0,36,0,1,0,1657734602,"E"
 
 # File marks:
-<<<<<<< HEAD
-'0  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,48,1,0,1657737594,"~/dir1/project1/.git/MERGE_MSG"
-'1  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,49,1,0,1657737556,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'2  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,50,1,0,1657737491,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'3  1  0  ~/dir1/project1/sample
-|4,51,1,0,1657737364,"~/dir1/project1/sample"
-'4  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,52,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
-'5  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,53,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'6  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,54,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'7  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,55,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'8  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,56,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
-'9  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,57,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
+'0  1  0  ~/.gitconfig
+|4,48,1,0,1658328031,"~/.gitconfig"
+'1  4  0  ~/git/sample
+|4,49,4,0,1658327868,"~/git/sample"
+'2  1  0  ~/.gitconfig
+|4,50,1,0,1658327624,"~/.gitconfig"
 
 # Jumplist (newest first):
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737594,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737556,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737556,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737491,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737491,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/sample
-|4,39,1,0,1657737364,"~/dir1/project1/sample"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/MERGE_MSG
-|4,39,1,0,1657737188,"~/dir1/project1/.git/MERGE_MSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657737106,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  1  0  ~/dir1/project1/.git/COMMIT_EDITMSG
-|4,39,1,0,1657736989,"~/dir1/project1/.git/COMMIT_EDITMSG"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657736953,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658328031,"~/.gitconfig"
+-'  4  0  ~/git/sample
+|4,39,4,0,1658327868,"~/git/sample"
+-'  4  0  ~/git/sample
+|4,39,4,0,1658327868,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1658327817,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1658327817,"~/git/sample"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658327624,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658327624,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
-
-> ~/dir1/project1/.git/MERGE_MSG
-	*	1657737592	0
-	"	1	0
-
-> ~/dir1/project1/.git/COMMIT_EDITMSG
-	*	1657737554	0
-	"	1	0
-	^	1	0
-
-> ~/dir1/project1/sample
-	*	1657737362	0
-=======
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1657734744,"~/.git/COMMIT_EDITMSG"
-'1  5  34  ~/.gitconfig
-|4,49,5,34,1657734660,"~/.gitconfig"
-'2  4  0  ~/firstprojectgit
-|4,50,4,0,1657733569,"~/firstprojectgit"
-
-# Jumplist (newest first):
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1657734744,"~/.git/COMMIT_EDITMSG"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657734660,"~/.gitconfig"
--'  5  34  ~/.gitconfig
-|4,39,5,34,1657734660,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1657734587,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1657734587,"~/.gitconfig"
--'  4  0  ~/firstprojectgit
-|4,39,4,0,1657733569,"~/firstprojectgit"
--'  4  0  ~/firstprojectgit
-|4,39,4,0,1657733569,"~/firstprojectgit"
--'  4  0  ~/firstprojectgit
-|4,39,4,0,1657733569,"~/firstprojectgit"
--'  4  0  ~/firstprojectgit
-|4,39,4,0,1657733569,"~/firstprojectgit"
--'  1  0  ~/firstprojectgit
-|4,39,1,0,1657733513,"~/firstprojectgit"
--'  1  0  ~/firstprojectgit
-|4,39,1,0,1657733513,"~/firstprojectgit"
--'  1  0  ~/firstprojectgit
-|4,39,1,0,1657733513,"~/firstprojectgit"
--'  1  0  ~/firstprojectgit
-|4,39,1,0,1657733513,"~/firstprojectgit"
-
-# History of marks within files (newest to oldest):
-
-> ~/.git/COMMIT_EDITMSG
-	*	1657734741	0
->>>>>>> 642a9e3b757916b672495ec0f68c41987d244271
-	"	1	0
 
 > ~/.gitconfig
-	*	1657736950	0
-	"	5	34
-	^	5	34
-	.	6	0
-	+	4	8
-	+	5	0
-	+	4	21
-	+	5	34
-	+	6	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1657735115	0
+	*	1658328025	0
 	"	1	0
 
-> ~/firstprojectgit
-	*	1657733567	0
+> ~/git/sample
+	*	1658327865	0
 	"	4	0
 	^	4	0
-	.	3	36
-	+	3	36
+	.	4	0
+	+	4	0
