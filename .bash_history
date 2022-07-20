@@ -259,3 +259,154 @@ git status
 git push origin master
 git push url master
 clear
+ll -a
+cd .ssh
+ll 
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+cd gitrepo
+cd
+cd gitrepo
+cd gitclone
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+git push origin master
+git status
+cd gitcloe
+cd gitclone
+ll
+cd gitrepo
+ll
+ec2-user@ec2-65-2-40-35.ap-south-1.compute.amazonaws.com
+cd gitclone
+lec2-user@ec2-65-2-40-35.ap-south-1.compute.amazonaws.com
+l
+ll
+ll -a
+git status
+git push origi master
+git push origin  master
+touch clone1
+git add .
+git commit -m "created first clone1 project"
+git status
+git push origin master
+git list --all
+git listout --all
+git config list --all
+git help
+git help listout
+git log
+clear
+ll
+cd dir
+cd dir1
+ll
+cd project1
+ll
+git status
+ll -a
+git clone https://github.com/muddasanidevi/firstprojectgit.githttps://github.com/muddasanidevi/firstprojectgit.git
+git clone https://github.com/muddasanidevi/firstprojectgit.git
+ll
+git clone https://github.com/muddasanidevi/devi.git
+llhttps://github.com/muddasanidevi/devi.git
+ll
+git clone https://github.com/muddasanidevi/git.git
+ll
+cd devi
+ll
+touch file2
+git add ./
+git status
+git commit -m "creating new project"
+git status
+git push origin master
+git remote origin set url git@github.com:muddasanidevi/git.git
+git remote  set url origin git@github.com:muddasanidevi/git.git
+git remote add origin set -url git@github.com:muddasanidevi/git.git
+git status
+git remote set-url origin git@github.com:muddasanidevi/git.git
+git status
+git push origin master
+git pull origin master
+git config --global --listall
+git pull
+git config pull.rebase false
+git push origin master
+git config pull.ff only
+git push origin master
+git config --global --edit
+git push origin master
+git pull
+git push
+git status
+git log
+cd
+git log
+git status
+cd /home/ec2-user/.gitconfig
+pwd
+ll -a
+rm -rf .gitconfig
+ll -a
+git status
+git add .
+git commit -m "no changes done"
+git status
+git commit -m "no corrections done" .
+git status
+git push origin master
+git remote -v
+git push url origin
+git push origin master
+git status
+git config --global --edit
+"vim -r /home/ec2-user/.gitconfig"
+ll -a
+rm -rf .gitconfig.swp
+rm -rf .gitcofig
+ll -a
+mv gitconfig .gitconfig
+mv .gitconfig gitconfig
+ll -a
+rm -rf gitconfig
+ll -a
+git push origin master
+cd gitcode
+ll
+cd gitrepo
+ll
+cd gitcloe
+cd gitclone
+ll
+git status
+git log
+git pull
+ll -a
+cd
+ll
+clear
+ll
+cd gitrepo
+ll
+cd gitclone
+ll
+ssh-keygen
+ll -a
+cd
+git
+git version 
+ll -a
+cd gitrepo
+ll
+gitclone
+cd gitclone
+ll
+git status
+git add .
+git status
+git add ./
+git status
+git commit -m "deleted file"
+git status
+ git push
