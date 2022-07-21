@@ -410,3 +410,140 @@ git status
 git commit -m "deleted file"
 git status
  git push
+ll
+git status
+git add .
+git status
+git commit -m "commiting messges"
+git remote -v
+git push url master
+clear
+ping google.com
+hi 
+ll
+git version
+git remote -v
+rm -rf git@github.com:muddasanidevi/firstprojectgit.git
+ll
+git remote -v
+man git
+git -rm git@github.com:muddasanidevi/firstprojectgit.git
+git -rm
+git rm
+git rm key2.ppk
+ll
+git status
+git ass .
+git add.
+git add .
+git status
+git commit -m "deleted message"
+git status
+git push origin master
+git status
+git pull
+git restore 
+git restore dir1/project1
+git status
+git add ./
+git commit -m "commit message 1"
+git commit -m "commit message 1" ./
+git config --global --edit
+rm -rf viminfo
+ll
+git status
+git add ./
+git status
+cd dir1/project1
+ll
+git 
+git add ./
+git status
+git commit -m "3 files added to the dir"
+git config --global --edit
+rm -rf dir1
+ll
+cd
+ll
+rm -rf dir1
+ll
+git status
+cd gitrepo
+ll
+cd gitclone
+ll
+cd
+find .gitconfig
+find ./ .gitconfig
+vi .gitconfig
+cat .gitconfig
+rm -rf .gitconfig
+ll
+git status
+git restore --staged .gitconfig
+ll
+git status
+git add ./
+git status
+git history
+git log
+git log --single line
+git log --oneline
+git status
+git push 
+git clone https://github.com/muddasanidevi/git.git
+ll
+cd git
+ll
+cat sample4
+cd
+git status
+git add ./
+git status
+git commit -m "cloned git project to ec2-user from github"
+git status
+git push origin master
+git status
+git log
+git config --global --edit
+git status
+git add ./
+git status
+git commit -m "four new files added"
+git commit --amend --reset-author
+git status
+git push origin master
+git status
+ll
+git log --oneline
+git log
+git config --global --edit
+which vi
+file /etc/alternatives/vi
+~/.viminfo
+sudo ~./viminfo
+sudo ~/.viminfo
+where viminfo
+which viminfo
+~/.viminfo
+find .viminfo
+find ./ .viminfo
+rm -rf .viminfo
+ll
+git config --global --edit
+git log
+clear
+git --version
+ll
+cd git
+ll
+ls -a
+git status
+vi sample
+git status
+git add ./
+git status
+~/.viminfo
+git remote -v
+git commit -m "added sample file"
+git config --global --edit

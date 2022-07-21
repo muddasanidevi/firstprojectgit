@@ -25,16 +25,34 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	#	name = 
+|3,1,1,1,1,0,1658326942,"#	name = "
+"-	CHAR	0
+	E
+|3,0,36,0,1,0,1658326939,"E"
 
 # File marks:
-'0  1  0  ~/.gitconfig
-|4,48,1,0,1658328031,"~/.gitconfig"
-'1  4  0  ~/git/sample
-|4,49,4,0,1658327868,"~/git/sample"
+'0  4  0  ~/.gitconfig
+|4,48,4,0,1658328497,"~/.gitconfig"
+'1  4  0  ~/.gitconfig
+|4,49,4,0,1658328497,"~/.gitconfig"
 '2  1  0  ~/.gitconfig
-|4,50,1,0,1658327624,"~/.gitconfig"
+|4,50,1,0,1658328497,"~/.gitconfig"
+'3  1  0  ~/.gitconfig
+|4,51,1,0,1658328031,"~/.gitconfig"
+'4  4  0  ~/git/sample
+|4,52,4,0,1658327868,"~/git/sample"
+'5  1  0  ~/.gitconfig
+|4,53,1,0,1658327624,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1658328497,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1658328497,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658328497,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1658328031,"~/.gitconfig"
 -'  4  0  ~/git/sample
@@ -49,16 +67,22 @@
 |4,39,1,0,1658327624,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1658327624,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658326925,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1658326854,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
-
-> ~/.gitconfig
-	*	1658328025	0
-	"	1	0
 
 > ~/git/sample
 	*	1658327865	0
 	"	4	0
 	^	4	0
+	.	4	0
+	+	4	0
+
+> ~/.gitconfig
+	*	1658326942	0
+	"	4	0
 	.	4	0
 	+	4	0
