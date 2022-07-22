@@ -547,3 +547,188 @@ git status
 git remote -v
 git commit -m "added sample file"
 git config --global --edit
+ll
+cd gitrepo
+ll
+cd gitclone
+ll
+git fetch
+git merge
+git merge 1e5bd
+ll
+cat file1
+cat fi1e2
+cat file3
+cat file4
+ll
+cler
+clear
+cat file2
+git remote
+git remote -v
+git remote set-url origin git@github.com:muddasanidevi/gitclone.git
+git remote -v
+ll
+cat>>file4
+git status
+git add .
+git commit -m "added data to file4"
+git status
+git push
+git push origin master
+git pull
+git pull origin master
+git merge origin master
+ll
+ls
+touch clone4
+git add .
+git commit
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:muddasanidevi/gitclone.git
+   1e5bdd1..965bcf9  master -> master
+[ec2-user@ip-172-31-14-39 gitclone]$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+git status
+git commit -m " created new file"
+git add .
+git status
+git commit -m " created new file"
+git push origin master
+git pull 
+git pull origin master
+git fetch origin master
+git merge
+git merge ba314
+ll
+rm -rf master
+ll
+ll
+git status
+git push
+git status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
+git status
+git add .
+git commit -m "no changes done"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
+git status
+git push origin master
+git status
+git remote -v
+ping google.com
+git branch
+ll
+cd git
+ll
+cd 
+cd gitrepo
+ll
+cd gitclone
+ll
+ping gogole.com
+git status
+ll
+git pull
+ll
+mv devops1.pem devops.pem
+ll
+git status
+git add.
+git add .
+git status
+git commit -m "renamed file from devops1 to devops"
+git status
+git log
+git config --global --edit
+git log --oneline
+git push origin master
+git status
+git add .
+git commit -m "no changes done"
+git status
+git push origin master
+git status
+find .viminfo
+touch file{1..4}
+ll
+git add .
+git commit -m "created four empty files"
+git commit --amend --reset-author
+git push origin master
+git status
+ll
+ll -a
+ll -la
+git init
+ll -a
+git branch -m master
+ll
+git status
+git add .
+git status
+git commit -m "adding files"
+git config --global user.name "muddasanidevi"
+git config --global user.email devimuddasanivk@gmail.com
+git commit --amend --reset-author
+git status
+git log
+git status
+git push origin master
+git remote -v
+git remote add origin https://github.com/muddasanidevi/gitclone.git
+git remote -v
+cd
+ll
+ll -la
+cd .ssh
+ll
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEMiCHMcd9+UenaVNZtIjJ9gRsfCD4RjFAA8xMxGOtIj1uhUhJD+3JzD4OZmy1Hi39oglrJvWF7A+fGxBsOjxwKMOtItKpyMqrMcLQTNaZG9pfumc09AoJRpmRLhDS/Cz/4Oqwt8uStJVGpdGx/DmCBMXQ1Mj4V9sR1sfPL0QVjXP1ocN01yUwK4QQYpuf3h3iLpOkHw8b/OcYLioP1eiXyUVaCVSR3w0OOTY1uzurPuwiXNz63Eq1Fb2owHBcl/wh6zifa0RKbtMVe7VrwfZUn+Wd6890WNcI0VeY7DFJAl4MZWk/ZgLYvVEhTHv2fbd+6o8F2q8fayBBiE+PkJ5 ec2-user@ip-172-31-14-39.ap-south-1.compute.internal
+cd
+ll
+cd git
+ll
+cd gitrepo
+ll
+cd
+cd gitrepo
+ll
+cd gitclone
+ll
+git remote -v
+git push origin master
+cat>>file1
+ll
+git add .
+git commit -m "added some data to file1"
+git push origin master
+git remote add origin git@github.com:muddasanidevi/gitclone.git
+git remote -v
+git remote add origin set-url git@github.com:muddasanidevi/gitclone.git
+git remote add origin url git@github.com:muddasanidevi/gitclone.git
+git remote add origin git@github.com:muddasanidevi/gitclone.git
+ll
+git push
+git push origin master
+git pull origin master
+git log --oneline
+git log
+git status
+git merge
+git remote -v
+git pull origin master
+ll
+cat file1
+ll
+git log
+git fetch origin master
+ll
+cat clone3
+git pull origin master
+ll
+cat clone2
+cat clone3
+git merge origin master
+git fetch origin master
+git log
